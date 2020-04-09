@@ -1,5 +1,5 @@
 module.exports = {
-  base:'./',
+  base:'my-blog/',
   "title": "王明宝的博客",
   "description": "滴滴滴！啊，我听不到",
   "dest": "public",
